@@ -18,11 +18,11 @@ I'm a third year student at [Imperial College London](https://imperial.ac.uk) st
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 <a href="mailto:luc.xav.jones@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="Mail" src="icons/gmail.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/luc-jones-473261257/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
 
 <!--
