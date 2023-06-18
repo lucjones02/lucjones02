@@ -1,6 +1,6 @@
 ### Hi there, I'm Luc 👋
 
-I'm a third year student at [Imperial College London](https://imperial.ac.uk) studying Computer Engineering and have a great interest in software.
+I'm a third year student at [Imperial College London](https://imperial.ac.uk) studying Computer Engineering and have a great interest in software. Feel free to have a look at my repos below.
 
 ### Skills
 
