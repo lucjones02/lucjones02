@@ -2,6 +2,7 @@
 
 I'm currently a software engineer at [Imagination Technologies](https://www.imaginationtech.com/) working in CPU Modelling. I recently graduated from [Imperial College London](https://imperial.ac.uk) studying Computer Engineering with First Class Honours and have a great interest in software and finance. Feel free to have a look at my repos below.
 
+<!--
 ### Skills
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
@@ -11,11 +12,12 @@ I'm currently a software engineer at [Imagination Technologies](https://www.imag
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Ocaml](https://img.shields.io/badge/Ocaml-EC6813?logo=ocaml&logoColor=white&style=for-the-badge)
 [![F#](https://img.shields.io/badge/F%23-87CEEB?style=for-the-badge)](https://fsharp.org/)
-<!-- ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge) -->
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+-->
 
 <a href="mailto:luc.xav.jones@gmail.com">
     <img height="32" align="left" alt="Mail" src="icons/gmail.png" />
