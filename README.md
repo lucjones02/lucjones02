@@ -1,6 +1,6 @@
 ### Hi there, I'm Luc 👋
 
-I'm a third year student at [Imperial College London](https://imperial.ac.uk) studying Computer Engineering and have a great interest in software. I'm currently on a summer placement at [Imagination Technologies](https://www.imaginationtech.com/) working in CPU Modelling. Feel free to have a look at my repos below.
+I'm currently a software engineer at [Imagination Technologies](https://www.imaginationtech.com/) working in CPU Modelling. I recently graduated from [Imperial College London](https://imperial.ac.uk) studying Computer Engineering with First Class Honours and have a great interest in software and finance. Feel free to have a look at my repos below.
 
 ### Skills
 
@@ -21,7 +21,7 @@ I'm a third year student at [Imperial College London](https://imperial.ac.uk) st
     <img height="32" align="left" alt="Mail" src="icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/luc-jones-473261257/">
+<a href="https://www.linkedin.com/in/ljones02/">
     <img height="32" align="left" alt="LinkedIn" src="icons/linkedin.png" />
 </a>
 
